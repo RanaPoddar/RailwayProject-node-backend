@@ -7154,3 +7154,643 @@ Timed out fetching a new connection from the connection pool. More info: http://
     at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
     at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
     at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:36:08 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:37:08 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:38:08 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:38:26 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:117:3)
+    at handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:295:15
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+2026-03-25 01:38:26 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:38:26 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:38:26 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-03-25 01:38:26 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:27:59 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:27:59 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:15 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:117:3)
+    at handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:295:15
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+2026-04-05 18:28:15 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:15 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:15 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:19 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:117:3)
+    at handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:295:15
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+2026-04-05 18:28:19 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:19 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:19 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:21 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/route.js:117:3)
+    at handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:295:15
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+2026-04-05 18:28:21 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:21 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:28:21 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 18:47:07 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:50:44 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:50:44 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:50:44 [error]: Error: Token expired
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:71:13
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:50:45 [error]: Prisma Error: 
+Invalid `prisma.shift.count()` invocation:
+
+
+Can't reach database server at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`
+
+Please make sure your database server is running at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`.
+2026-04-05 20:50:45 [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.shift.count()` invocation:
+
+
+Can't reach database server at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`
+
+Please make sure your database server is running at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`.
+    at ei.handleRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:7268)
+    at ei.handleAndLogRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6593)
+    at ei.request (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6300)
+    at async a (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:134:9551)
+    at async Promise.all (index 1)
+    at async getDashboardStats (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/controllers/dashboard.controller.js:39:9)
+2026-04-05 20:50:45 [error]: Prisma Error: 
+Invalid `prisma.shift.count()` invocation:
+
+
+Can't reach database server at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`
+
+Please make sure your database server is running at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`.
+2026-04-05 20:50:45 [error]: Prisma Error: 
+Invalid `prisma.dutyLog.findMany()` invocation:
+
+
+Can't reach database server at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`
+
+Please make sure your database server is running at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`.
+2026-04-05 20:50:45 [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.dutyLog.findMany()` invocation:
+
+
+Can't reach database server at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`
+
+Please make sure your database server is running at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`.
+    at ei.handleRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:7268)
+    at ei.handleAndLogRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6593)
+    at ei.request (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6300)
+    at async a (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:134:9551)
+    at async getRecentActivities (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/controllers/dashboard.controller.js:332:24)
+2026-04-05 20:50:45 [error]: Prisma Error: 
+Invalid `prisma.shift.count()` invocation:
+
+
+Can't reach database server at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`
+
+Please make sure your database server is running at `ep-jolly-sky-ahjt6sc5-pooler.c-3.us-east-1.aws.neon.tech:5432`.
+2026-04-05 20:50:51 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:50:51 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:50:51 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:51:11 [error]: Prisma Error: 
+Invalid `prisma.shift.findMany()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 9)
+2026-04-05 20:51:11 [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.shift.findMany()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 9)
+    at ei.handleRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:7268)
+    at ei.handleAndLogRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6593)
+    at ei.request (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6300)
+    at async a (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:134:9551)
+    at async Module.getActiveShifts (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/services/dutyHours.service.js:20:18)
+    at async monitorShifts (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/jobs/shiftMonitor.job.js:13:26)
+2026-04-05 20:51:21 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:51:41 [error]: Prisma Error: 
+Invalid `prisma.shift.findMany()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 9)
+2026-04-05 20:51:41 [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.shift.findMany()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 9)
+    at ei.handleRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:7268)
+    at ei.handleAndLogRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6593)
+    at ei.request (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6300)
+    at async a (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:134:9551)
+    at async Module.getActiveShifts (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/services/dutyHours.service.js:20:18)
+    at async monitorShifts (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/jobs/shiftMonitor.job.js:13:26)
+2026-04-05 20:51:51 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:52:21 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:52:51 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:53:21 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:53:51 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:54:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:55:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:56:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:57:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:58:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 20:59:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:00:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:01:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:02:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:03:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:04:57 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:06:12 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:06:12 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:06:12 [error]: Error: Not authorized, no token provided
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/auth.js:21:11
+    at file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/middleware/errorHandler.js:49:19
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:342:13)
+    at /home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:297:9
+    at processParams (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:582:12)
+    at next (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:291:5)
+    at router.handle (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:186:3)
+    at router (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/index.js:60:12)
+    at Layer.handleRequest (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/node_modules/router/lib/layer.js:152:17)
+2026-04-05 21:06:58 [error]: Prisma Error: Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }) }
+2026-04-06 18:49:58 [error]: Prisma Error: 
+Invalid `prisma.user.findMany()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 9)
+2026-04-06 18:49:58 [error]: PrismaClientKnownRequestError: 
+Invalid `prisma.user.findMany()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 9)
+    at ei.handleRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:7268)
+    at ei.handleAndLogRequestError (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6593)
+    at ei.request (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:125:6300)
+    at async a (/home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/generated/prisma/runtime/library.js:134:9551)
+    at async monitorShifts (file:///home/ranapoddar/Documents/railway-project/RailwayProject-node-backend/src/jobs/shiftMonitor.job.js:39:29)

@@ -17,10 +17,10 @@ Packages :
 
 Test  Credentials:
 
-Email	            Password	Role
-admin@railway.com	Admin@123  SUPERADMIN
-admin2@railway.com	C	ADMIN
-user@railway.com	Admin@123	USER
+Email	                  Password	                Role
+admin@railway.com	      Admin@123                SUPERADMIN
+admin2@railway.com	    C	                       ADMIN
+user@railway.com	      Admin@123	               USER
 
 
 API Endpoints:
