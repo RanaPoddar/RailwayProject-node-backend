@@ -44,7 +44,8 @@ export const config = {
         'https://railway-project-frontend.vercel.app',
         'http://localhost:3000',
         'http://localhost:5173',
-        'http://127.0.0.1:3000',
+        'https://www.dutyhours.in/',
+        'https://dutyhours.in/'
       ];
       if (!origin || allowed.includes(origin)) return callback(null, true);
       return callback(new Error('CORS blocked: origin not allowed'));
